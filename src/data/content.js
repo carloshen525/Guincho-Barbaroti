@@ -4,7 +4,7 @@ export const businessInfo = {
   fullLocation: "Ribeirão Preto e região — SP",
   phoneDisplay: "(16) 99289-7087",
   phoneRaw: "5516992897087",
-  phoneCallUrl: "tel:16992897087",
+  phoneCallUrl: "tel:+5516992897087",
   whatsappUrl: "https://wa.me/5516992897087?text=Ol%C3%A1!%20Preciso%20de%20um%20guincho%20em%20Ribeir%C3%A3o%20Preto%20ou%20regi%C3%A3o.%20Poderia%20me%20ajudar%20com%20um%20or%C3%A7amento%20r%C3%A1pido%3F",
   availability: "24 Horas por dia, 7 dias por semana",
   addressNotes: "Base com pronta resposta em Ribeirão Preto - SP (Atendimento urbano e rodoviário)",
@@ -149,4 +149,3 @@ export const faqs = [
     answer: "Sim, realizamos transporte intermunicipal e viagens programadas para veículos. Consulte a disponibilidade e valores pelo WhatsApp."
   }
 ];
-
