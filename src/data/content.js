@@ -2,10 +2,10 @@ export const businessInfo = {
   name: "Guincho Barbaroti",
   city: "Ribeirão Preto",
   fullLocation: "Ribeirão Preto e região — SP",
-  phoneDisplay: "(16) 99289-7087",
-  phoneRaw: "5516992897087",
-  phoneCallUrl: "tel:+5516992897087",
-  whatsappUrl: "https://wa.me/5516992897087?text=Ol%C3%A1!%20Preciso%20de%20um%20guincho%20em%20Ribeir%C3%A3o%20Preto%20ou%20regi%C3%A3o.%20Poderia%20me%20ajudar%20com%20um%20or%C3%A7amento%20r%C3%A1pido%3F",
+  phoneDisplay: "(16) 98186-8703",
+  phoneRaw: "5516981868703",
+  phoneCallUrl: "tel:+5516981868703",
+  whatsappUrl: "https://wa.me/5516981868703?text=Ol%C3%A1!%20Preciso%20de%20um%20guincho%20em%20Ribeir%C3%A3o%20Preto%20ou%20regi%C3%A3o.%20Poderia%20me%20ajudar%20com%20um%20or%C3%A7amento%20r%C3%A1pido%3F",
   availability: "24 Horas por dia, 7 dias por semana",
   addressNotes: "Base com pronta resposta em Ribeirão Preto - SP (Atendimento urbano e rodoviário)",
   // Dados para preenchimento posterior pelo cliente
@@ -126,7 +126,7 @@ export const serviceDifferentials = [
 export const faqs = [
   {
     question: "Como faço para solicitar o guincho agora?",
-    answer: "Basta clicar no botão de 'Ligar Agora' no número (16) 99289-7087 ou enviar uma mensagem no WhatsApp. Informe onde você está e qual o modelo do seu veículo para passarmos o orçamento e tempo estimado na hora."
+    answer: "Basta clicar no botão de 'Ligar Agora' no número (16) 98186-8703 ou enviar uma mensagem no WhatsApp. Informe onde você está e qual o modelo do seu veículo para passarmos o orçamento e tempo estimado na hora."
   },
   {
     question: "Quanto tempo demora para o guincho chegar?",
